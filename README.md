@@ -16,8 +16,5 @@ Manual QA test cases and scenarios for a Life Sciences Quality Management System
 ## Tools Used
 - Microsoft Excel
 
-## Project Status
-In Progress
-
 ## Author
 Upanshu Gupta
