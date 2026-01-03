@@ -11,7 +11,8 @@ Manual QA test cases and scenarios for a Life Sciences Quality Management System
 - Audits
 - Document Control
 - Management
-- 
+-  Co-Pilot (AI-assisted features)
+
 ## Tools Used
 - Microsoft Excel
 
